@@ -1,10 +1,21 @@
-### Olá, meu nome é André   👋
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-### Estudo Ciências Da Computação (IFC - Rio Do Sul)
+### <div align="center">Hello, my name is André, I'm 19 years old and I'm Studying Computer Science at (IFC - Rio Do Sul)</div>  
+  
 
-- 🔭 Atualmente estou trabalhando com: [automatização de tarefas com python]
+- 🔭 I'm currently working with: [task automation with python]  
+  
 
-- 🌱  Estudando sobre Java e Python... 
+- 🌱 I’m currently studying about Java and Python...  
+  
+
+- ⚡ Fun fact: The world is made of bits and bytes  
+  
+
+<br/>  
 
 <div>
   <a href="https://github.com/Andre-Davi-Lopes">
