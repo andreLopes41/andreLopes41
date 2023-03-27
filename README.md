@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="200" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="300" />
 </div>  
   
 
@@ -75,7 +75,8 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Andre-Davi-Lopes&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Andre-Davi-Lopes&show_icons=true&count_private=true&hide_border=true" align="center" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Davi-Lopes&layout=compact&langs_count=7&theme=light"/>
+</div>  
   
 <br/>  
 
@@ -86,12 +87,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Andre-Davi-Lopes&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
