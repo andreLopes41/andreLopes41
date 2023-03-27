@@ -1,6 +1,10 @@
-### Olá, Sou o André Davi Lopes!  👋
+### Olá, meu nome é André   👋
 
-- 🌱 Estudo Ciências Da Computação (IFC - Rio Do Sul)
+### Estudo Ciências Da Computação (IFC - Rio Do Sul)
+
+- 🔭 Atualmente estou trabalhando com: [automatização de tarefas com python]
+
+- 🌱 No momento Estou Aprendendo sobre Java e Python 
 
 <div>
   <a href="https://github.com/Andre-Davi-Lopes">
