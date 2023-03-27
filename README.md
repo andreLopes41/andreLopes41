@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente estou trabalhando com: [automatização de tarefas com python]
 
-- 🌱 No momento Estou Aprendendo sobre Java e Python 
+- 🌱  Estudando sobre Java e Python... 
 
 <div>
   <a href="https://github.com/Andre-Davi-Lopes">
