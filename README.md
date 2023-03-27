@@ -78,7 +78,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Davi-Lopes&layout=compact&langs_count=7&theme=light"/>
 </div>
 
-![Snake animation](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  🏆Winners win
+</div>
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Andre-Davi-Lopes&&style=flat-square" align="center" />
