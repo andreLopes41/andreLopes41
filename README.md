@@ -71,7 +71,7 @@
 
 ## Github Stats  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Davi-Lopes&show_icons=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Davi-Lopes&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Davi-Lopes&layout=compact&langs_count=7&theme=light"/>
 </div>
 
