@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" height="400" />
-</div>  
-  
-
 ### <div align="center">Hello, my name is André, I'm 19 years old and I'm Studying Computer Science at (IFC - Rio Do Sul)</div>  
   
 
@@ -18,12 +13,14 @@
 <br/>  
 
 
-## Tecnologias que uso  🖥️
+## my skill set 🖥️
 	
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">	
   <img align="center" alt="Andre-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Andre-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
 </div>
 
 <br/>  
