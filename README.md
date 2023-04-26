@@ -1,9 +1,6 @@
-### <div align="center">Hello, my name is André, I'm 19 years old and I'm Studying Computer Science at (IFC - Rio Do Sul)</div>    
+## 👋 Hello, my name is André, I'm 19 years old and I'm Studying Computer Science at (IFC - Rio Do Sul)    
   
-
 - 🌱 I’m currently studying about Java and Python [task automation]
-  
-
 - ⚡ Fun fact: The world is made of bits and bytes  
   
 
