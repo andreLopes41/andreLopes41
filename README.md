@@ -1,6 +1,6 @@
 ![perfil git](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/assets/111528571/4ff06330-e1a5-4818-8ba4-10825dcb5916)
 
-##👋 Olá   
+##                                     👋 Olá   
   
 - 🌱 I’m currently studying about Java and Python [task automation]
 - ⚡ Fun fact: The world is made of bits and bytes   
