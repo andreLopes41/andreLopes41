@@ -1,3 +1,5 @@
+![perfil git](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/assets/111528571/4ff06330-e1a5-4818-8ba4-10825dcb5916)
+
 ## 👋 Hi, my name is André, I'm 19 years old and I'm Studying Computer Science at IFC - Rio Do Sul   
   
 - 🌱 I’m currently studying about Java and Python [task automation]
