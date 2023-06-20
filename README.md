@@ -1,8 +1,7 @@
 ![perfil git](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/assets/111528571/4ff06330-e1a5-4818-8ba4-10825dcb5916)
 
-<h1 align="center">Hi 👋 Olá meu nome é André.</h1>
+<h1 align="center">👋 Olá meu nome é André.</h1>
   
-
 ## 🔧 my skills 
 	
 <div style="display: inline_block" align="center">
