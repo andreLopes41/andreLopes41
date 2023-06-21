@@ -31,7 +31,7 @@
     <img align="center" src="[https://logosmarcas.net/wp-content/uploads/2020/11/Gmail-Logo.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn" height="30" width="40" />
   </a>
 </div>
 
