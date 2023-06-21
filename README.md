@@ -3,6 +3,10 @@
 <h1 align="center">👋 Olá meu nome é André.</h1>
 
 ##
+
+- 🔭  My current focus is: **improve my dev skills.**
+
+- ⚡ Fun fact **I love to play games in my spare time.**
   
 ## 🔧 my skills 
 	
