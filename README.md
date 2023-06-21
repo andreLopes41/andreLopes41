@@ -28,7 +28,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:andredavilopes6@gmail.com">
-    <img align="center" src="https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/blob/main/assets/111528571/ee6701bb-b6a9-4e12-88e4-8bbf3193ca30.png" alt="Gmail" height="30" width="40" />
+    <img align="center" src="![gmail-logo-16](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/assets/111528571/47894e85-1ad9-4844-89c0-09f997942124)
+ " alt="Gmail" height="30" width="40" />
   </a>
   <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
