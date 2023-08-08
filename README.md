@@ -35,19 +35,8 @@
   </a>
 </div>
 
-
-## Github Stats  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andre-Davi-Lopes&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
-</div>
-
 ![Snake animation](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   🏆Winners win
 </div>
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Andre-Davi-Lopes&&style=flat-square" align="center" />
-</div>  
