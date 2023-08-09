@@ -6,16 +6,36 @@
 
 - 🌱 I’m currently studying about **Php and Java**
 
-- ⚡ Fun fact **I love to play games in my spare time.**
-  
+- ⚡ Fun fact **I love to play games in my spare time.** 
 ## 🔧 my skills 
-	
-<div style="display: inline_block" align="center">
-<br>
-  <img align="center" alt="Andre-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align="center" alt="Andre-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />	
-  <img align="center" alt="Andre-Java" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Andre-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Frontend</th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">  
+        <img align="center" alt="Andre-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  	<img align="center" alt="Andre-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />	
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <th>Backend</th>
+  </tr>
+  <tr>
+    <td>
+      <div align="center">
+      <img align="center" alt="Andre-Java" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <img align="center" alt="Andre-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+      </div>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>  
