@@ -7,7 +7,6 @@
 - 🌱 I’m currently studying about **Php and Java**
 
 - ⚡ Fun fact **I love to play games in my spare time.** 
-## 🔧 my skills 
 
 <div align="center">
 
