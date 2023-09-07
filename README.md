@@ -29,6 +29,7 @@
     <td>
       <div align="center">
       <img align="center" alt="Andre-Java" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+      <img align="center" alt="Andre-Php" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
       <img align="center" alt="Andre-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
       </div>
     </td>
