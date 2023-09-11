@@ -2,13 +2,13 @@
 
 <h2 align="center">👋 Hello World!<br>My name is André</h2>
 
-```
+
 - 🔭  My current focus is improve my dev skills.
    
 - 🌱 I’m currently studying about Php and Java
    
 - ⚡ Fun fact I love to play games in my spare time.
-```
+
 <div align="center">
 
 
