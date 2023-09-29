@@ -11,8 +11,6 @@
 
 <div align="center">
 
-
-
 </div>
 
 <div align="center">
@@ -51,10 +49,13 @@
 ## 🤝 Connect with me
 
 <div align="center">
-  <a href="mailto:andredavilopes6@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+   <a href="https://www.instagram.com/andre.lopes.me/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   </a>
+   <a href="mailto:andredavilopes6@gmail.com">
+      <img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+   </a>
+   <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
+      <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+   </a>
 </div>
