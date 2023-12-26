@@ -1,52 +1,21 @@
-![perfil git](https://github.com/Andre-Davi-Lopes/Andre-Davi-Lopes/assets/111528571/4ff06330-e1a5-4818-8ba4-10825dcb5916)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=1000&height=450)](https://github.com/Akshay090/svg-banners)
 
-<h2 align="center">👋 Hello World!<br>My name is André</h2>
+```
+I'm André, a computer science student. PHP developer at Magazord company.
+I'm looking to improve my skills in the area, soon I intend to create an open source project...
+```
+<br/>
 
-
-- 🔭  My current focus is improve my dev skills.
-   
-- 🌱 I’m currently studying about Php and Java
-   
-- ⚡ Fun fact I love to play games in my spare time.
-
-<div align="center">
-
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <th>Frontend</th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">  
-        <img align="center" alt="Andre-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  	<img align="center" alt="Andre-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />	
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <th>Backend</th>
-  </tr>
-  <tr>
-    <td>
-      <div align="center">
-      <img align="center" alt="Andre-Java" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-      <img align="center" alt="Andre-Php" height="60" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> 
-      <img align="center" alt="Andre-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-</div>
+>> 🔭  My current focus is improve my dev skills.
+>
+>> 🌱 I’m currently studying about Php and Java.
+>
+>> ⚡ Fun fact I love to play games in my spare time.
 
 <br/>  
 
 
-## 🤝 Connect with me
+## connect with me 🚀 
 
 <div align="center">
    <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
