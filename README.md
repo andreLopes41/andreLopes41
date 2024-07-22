@@ -5,7 +5,7 @@
 
 - 🔭  My current focus is improve my dev skills.
 - 🌱 I’m currently studying about PHP and Python.
-- ⚡ Fun fact I love to play games in my spare time.
+- ⚡ Fun fact: I love to play games in my spare time.
 
 ```
 <br/>
