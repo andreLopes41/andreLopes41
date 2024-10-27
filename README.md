@@ -10,8 +10,42 @@
 ```
 <br/>
 
+## 🚀 Tech Stacks
 
-## connect with me 🚀 
+<div align="center">
+<table>
+  <tr>
+    <th>Front-end</th>
+    <th>Back-end</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+    </td>
+  </tr>
+</table>
+</div>
+
+## ⚡ connect with me  
 
 <div align="center">
    <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
