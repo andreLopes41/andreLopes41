@@ -48,7 +48,7 @@
 ## ⚡ connect with me  
 
 <div align="center">
-   <a href="https://br.linkedin.com/in/andre-davi41?trk=people-guest_people_search-card" target="_blank">
+   <a href="https://br.linkedin.com/in/andre-lopes-me" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
    </a>
    <a href="mailto:andredavilopes6@gmail.com">
