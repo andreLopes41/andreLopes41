@@ -23,7 +23,7 @@
 
 </div>
 
-## ⚡ Connect with me  
+## ⚡ Connect With Me  
 
 <div align="center">
   
