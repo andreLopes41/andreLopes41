@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 
@@ -31,3 +33,5 @@
    [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.lopes.me/)
    
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
