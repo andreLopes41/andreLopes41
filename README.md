@@ -1,7 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
+## 🎩 About Me
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+<div align="left">
+
+</div>
+
+### 🌟 Quick Facts
+- 📚 Currently mastering: **PHP** & **Python**
+- ⚡ Fun fact: I love gaming and tech innovations
+- 🌱 Always learning, always growing
+
+### 💭 Current Interests
+- 🌍 Web Development
+- ✨ Clean Code 
 
 ## 🚀 Tech Stack
 
