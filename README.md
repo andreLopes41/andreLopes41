@@ -9,7 +9,7 @@
   I'm André, a Computer Science student and Web Developer on a journey to create amazing solutions. <br>
   Passionate about learning new technologies and turning challenges into opportunities through code.
   
-  *Building the future, one line of code at a time 🚀*
+  > *Building the future, one line of code at a time 🚀*
 </div>
 
 ## 🎩 About Me
