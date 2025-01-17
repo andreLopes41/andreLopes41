@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+
 <div align="center">
   
   # 👋 Hey There!
 
   I'm André, a Computer Science student and Web Developer on a journey to create amazing solutions. <br>
-Passionate about learning new technologies and turning challenges into opportunities through code.
+  Passionate about learning new technologies and turning challenges into opportunities through code.
   
   *Building the future, one line of code at a time 🚀*
 </div>
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## 🎩 About Me
 
