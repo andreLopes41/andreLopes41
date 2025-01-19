@@ -6,36 +6,50 @@
   
 </div>
 
-#
+## 🎩 About Me
 
-<p align="center">I am a Computer Science student at the Instituto Federal Catarinense. I currently work with PHP and study Python at the same time, I am deeply engaged in expanding my programming expertise. My main interests are focused on Web Development. As someone who loves gaming and tech innovations, I bring that enthusiasm into my work. I am constantly updating my knowledge and seeking new challenges in the technology area, always learning and always growing. I am passionate about learning and applying this knowledge to create innovative solutions.</p>
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-#
+### 🌟 Quick Facts
+- 📚 Currently mastering: **PHP** & **Python**
+- ⚡ Fun fact: I love gaming and tech innovations
+- 🌱 Always learning, always growing
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> 
+### 💭 Current Interests
+- 🌍 Web Development
+- ✨ Clean Code 
 
-<h3 align="left">~ Connect With Me</h3>
+## 🚀 Tech Stack
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=protonmail&logoColor=FF00F6&color:FFF)](mailto:andredavilopes6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andre-lopes-me/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/andre.lopes.me/)
 
-<h3 align="left">~ My Stack</h3>
+<div align="center">
 
-### Front End Development
-  
+  ### Front End Development
+
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
-### Back End Development
-  
+</div>
+
+<div align="center">
+
+  ### Back End Development
+
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+</div>
 
+## ⚡ Connect With Me  
 
-#
+<div align="center">
+  
+  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=protonmail&logoColor=FF00F6&color:FFF)](mailto:andredavilopes6@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/andre-lopes-me/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/andre.lopes.me/)
+  
+</div>
 
 <h3 align="center">* GitHub Stats *</h3>
 
