@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes%20🎩&width=850&height=400)](https://github.com/Akshay090/svg-banners)
+  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes&width=850&height=400)](https://github.com/Akshay090/svg-banners)
   
 </div>
 
@@ -41,6 +41,23 @@
 
 </div>
 
+<div align="center">
+
+  ### Framework Development
+
+  [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+
+</div>
+
+<div align="center">
+
+  ### Ops Development
+
+  [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
+
+</div>
+
 ## ⚡ Connect With Me  
 
 <div align="center">
@@ -51,7 +68,7 @@
   
 </div>
 
-<h3 align="center">* GitHub Stats *</h3>
+<h3 align="center">* Commits *</h3>
 
 <div align="center">
 
