@@ -1,30 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
-
 <div align="center">
   
   [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=André%20Lopes&width=850&height=400)](https://github.com/Akshay090/svg-banners)
   
 </div>
 
-## 👦🏻 About Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" width="24" /> Sobre Mim
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Olá! 👋 Meu nome é **André Davi Lopes** e sou estudante de **Ciência da Computação**.  
+Sou apaixonado por **desenvolvimento web, segurança e novas tecnologias**, sempre buscando aplicar soluções criativas em projetos.  
 
-### 🌟 Quick Facts
-- 📚 Currently mastering: **PHP** & **Python**
-- ⚡ Fun fact: I love gaming and tech innovations
-- 🌱 Always learning, always growing
-
-### 💭 Current Interests
-- 🌍 Web Development
-- ✨ Clean Code 
-
-## 🚀 Tech Stack
+- 💻 Experiência em: **Java**, **PHP**, **Python**  
+- 🔧 Curioso e motivado a enfrentar novos desafios  
+- 🚀 Sempre em busca de oportunidades para aprender e crescer profissionalmente
 
 
 <div align="center">
 
-  ### Front End Development
+  ### FrontEnd Development
 
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html)
   [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css)
@@ -34,7 +26,7 @@
 
 <div align="center">
 
-  ### Back End Development
+  ### BackEnd Development
 
   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -83,5 +75,3 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=andreLopes41&color=2E8B57&style=flat)
   
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
