@@ -58,7 +58,7 @@ Sou motivado por desafios e busco constantemente **aprimorar minhas habilidades*
 </picture>
 </div>
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" /> Connect With Me
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" /> Conecte-se comigo
 
 <div align="center">
   
