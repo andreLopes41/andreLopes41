@@ -8,7 +8,7 @@
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="24" /> Sobre Mim
 
-Olá! 👋 Meu nome é **André Davi Lopes**, sou estudante de **Ciência da Computação** e sou apaixonado poela área de **Desenvolvimento Web**.  
+Olá! 👋 Meu nome é **André Davi Lopes**, sou estudante de **Ciência da Computação** e sou apaixonado pela área de **Desenvolvimento Web**.  
 
 Adoro desafios e busco constantemente aprimorar minhas habilidades e contribuir com projetos práticos.  
 
