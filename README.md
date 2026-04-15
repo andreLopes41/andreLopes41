@@ -14,7 +14,7 @@ Adoro desafios e busco constantemente aprimorar minhas habilidades e contribuir 
 
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="24" height="24"/> Tecnologias
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="24"/> Tecnologias
 
 <div align="center">
 
@@ -44,10 +44,6 @@ Adoro desafios e busco constantemente aprimorar minhas habilidades e contribuir 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="24" /> GitHub Stats
 
 <div align="center">
-  
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=andreLopes41&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![Streak](https://nirzak-streak-stats.vercel.app/?user=andreLopes41&theme=github_dark&hide_border=false)<br/>
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreLopes41&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreLopes41/andreLopes41/output/github-contribution-grid-snake-dark.svg">
